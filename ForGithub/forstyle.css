@@ -1,0 +1,18 @@
+/* ZEN Demo Style */
+
+body {
+  background: #0b0b0f;
+  color: #a855f7;
+  font-family: Arial, sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+}
+
+.message {
+  font-size: 24px;
+  font-weight: bold;
+  text-align: center;
+}
